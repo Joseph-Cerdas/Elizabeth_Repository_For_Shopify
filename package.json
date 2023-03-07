@@ -1,0 +1,19 @@
+{
+  "name": "elizabeth_repository_for_shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-Cerdas/Elizabeth_Repository_For_Shopify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-Cerdas/Elizabeth_Repository_For_Shopify/issues"
+  },
+  "homepage": "https://github.com/Joseph-Cerdas/Elizabeth_Repository_For_Shopify#readme"
+}
